@@ -17,7 +17,7 @@
 var OMNIBOX_MAX_RESULTS = 20;
 var REFERENCE_JS_URL = 'https://developer.android.com/reference/lists.js';
 var XML_REF_JS_URL = 'android-xml-ref.js';
-var LOCAL_DOC_PATH='file:///home/ccheng/program/android-sdk-linux_x86/docs/'
+var LOCAL_DOC_PATH='file:///Users/ccheng/program/adt-bundle-mac-x86_64-20130219/sdk/docs/'
 
 
 chrome.omnibox.setDefaultSuggestion({
